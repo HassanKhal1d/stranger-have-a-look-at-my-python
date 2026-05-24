@@ -11,6 +11,9 @@ A collection of Python projects built while working through **Bro Code's Python 
 ```
 stranger-have-a-look-at-my-python/
 │
+├── LICENSE/
+├── .gitignore/
+│
 ├── 01_madlibs/
 ├── 02_calculator/
 ├── 03_weight_conversion/
